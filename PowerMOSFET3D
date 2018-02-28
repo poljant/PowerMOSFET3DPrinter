@@ -1,0 +1,10 @@
+Reference, Quantity, Value, Footprint, Datasheet
+D1 D2 ,2,"DF08S","Diodes_SMD:DF08S_Bridge_Gretza_DFS",""
+D3 D4 D5 ,3,"LED","LEDs:LED_D3.0mm",""
+J1 J2 ,2,"Screw_Terminal_1x02","Terminal_Blocks:TerminalBlock_Pheonix_PT-3.5mm_2pol",""
+J3 J4 J5 ,3,"Screw_Terminal_1x02","w_conn_gmkds:gmkds_3-2-5",""
+Q1 Q2 ,2,"IRF3205","TO_SOT_Packages_THT:TO-220_Vertical",""
+R3 R4 ,2,"4k7","Resistors_SMD:R_1206_HandSoldering",""
+R1 R2 R5 R6 R9 ,5,"10k","Resistors_SMD:R_1206_HandSoldering",""
+R7 R8 ,2,"33k","Resistors_SMD:R_1206_HandSoldering",""
+U1 ,1,"PC827","Housings_DIP:DIP-8_W7.62mm",""

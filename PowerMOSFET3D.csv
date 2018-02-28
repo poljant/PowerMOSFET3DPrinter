@@ -1,0 +1,11 @@
+"Id";"Znacznik";"Obudowa";"Ilość";"Oznaczenie";"Dostawca i numer artykułu";
+1;"REF**,REF**,REF**,REF**";"MountingHole_3.2mm_M3_DIN965";4;"MountingHole_3.2mm_M3_DIN965";;;
+2;"D2,D1";"DF08S_Bridge_Gretza_DFS";2;"DF08S";;;
+3;"D3,D4,D5";"LED_D3.0mm";3;"LED";;;
+4;"J1,J2";"TerminalBlock_Pheonix_PT-3.5mm_2pol";2;"Screw_Terminal_1x02";;;
+5;"J3,J4,J5";"gmkds_3-2-5";3;"Screw_Terminal_1x02";;;
+6;"Q1,Q2";"TO-220_Vertical";2;"IRF3205";;;
+7;"R1,R2,R5,R6,R9";"R_1206_HandSoldering";5;"10k";;;
+8;"R3,R4";"R_1206_HandSoldering";2;"4k7";;;
+9;"R7,R8";"R_1206_HandSoldering";2;"33k";;;
+10;"U1";"DIP-8_W7.62mm";1;"PC827";;;
